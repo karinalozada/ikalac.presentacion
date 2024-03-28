@@ -1,0 +1,211 @@
+p {
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: black;
+
+}
+
+/*a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}*/
+
+.nopadding {
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin: 0%;
+}
+
+h2 {
+
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #24418f;
+    text-align: center;
+    margin-top: 0%;
+}
+
+h2. .left {
+    text-align: left;
+    width: 50%;
+
+}
+
+h2. .right {
+    text-align: right;
+    width: 50%;
+}
+
+.rightfloat {
+    width: 50%;
+    float: right;
+}
+
+div.column {
+    float: right;
+    width: 40%;
+}
+
+div.column2 {
+    float: right;
+    width: 50%;
+}
+
+div.row {
+    float: right;
+    width: 50%;
+    margin-top: 25px;
+}
+
+div {
+    text-align: left;
+
+}
+
+body {
+    font-size: 25px;
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: ;
+    margin: 0;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    height: 100%;
+    overflow: hidden;
+
+}
+
+body.succes {
+    background-repeat: ;
+    background-size: cover;
+    background-image: url("");
+}
+
+}
+
+div.succes {
+
+    text-align: center;
+}
+
+div.rectangle1 {
+    width: 1820px;
+    height: 50px;
+    border-bottom-color: #3763AE;
+    background-color: #3763AE;
+}
+
+div.rectangle {
+    object-fit: cover;
+}
+
+.container-image:hover .overlay {
+    opacity: 1;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+div.padding {
+    padding-left: 8%;
+    width: ;
+    height: ;
+}
+
+div.padding2 {
+    padding-left: 8%;
+    width: 50%;
+    float: left;
+}
+
+div.padding.yogurt {
+    padding-left: 20%;
+}
+
+div.righta {
+    text-align: left;
+}
+
+.pleft {
+    text-align: left;
+
+}
+
+div.padding4 {
+    width: 50%;
+    float: right;
+}
+
+img {
+    height: ;
+    width: ;
+}
+
+.overlay {
+    opacity: 0;
+    position: absolute;
+    width: 300px;
+    height: 450px;
+    top: 0;
+    transition: opacity 0.4s ease-in-out;
+    background: black;
+    cursor: pointer;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    display: flex;
+}
+
+
+.container-image:hover . overlay {
+    opacity: 0.8;
+    background:
+}
+
+.container-image {
+    width: 300px;
+    height: 450px;
+}
+
+div.header {
+    width: 1450px;
+    height: 80px;
+    position: fixed;
+    background-color: #194294;
+}
